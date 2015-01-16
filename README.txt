@@ -24,7 +24,6 @@ For each extra field you can choose :
 *   if the fields is required field
 *   change the default style for woocommerce ( wide, first, last)
 
-Note that : this plugin need [Woocommerce](http://wordpress.org/ "woocommerce")
 
 
 == Installation ==
