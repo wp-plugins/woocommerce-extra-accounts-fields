@@ -6,7 +6,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin will help the user to add extra fields for woocommerce my-account page
+Allow the user to add extra fields in registeration area ( My Account ) page, so you can more fields than firstname and lastname fields ..
 
 == Description ==
 
