@@ -43,6 +43,8 @@ No answer.
 
 1. Woocommerce extra plugin from admin panel
 2. Woocommerce extra plugin from front end
+3. Another view for the admin fields 
+4. Showing the available types 
 
 == Changelog ==
 
