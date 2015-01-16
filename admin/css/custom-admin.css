@@ -1,0 +1,117 @@
+/**
+ * All of the CSS for your dashboard-specific functionality should be
+ * included in this file.
+ */
+
+#setting-page-container {
+    width: 100%;
+}
+
+.woocommerce-extra-fields-container {
+    width: 780px;
+    float: left;
+}
+
+.woocommerce-extra-fields-help {
+    float: left;
+    width:200px;
+    background: #fff;
+    padding: 0 28px;
+    margin-bottom: 30px;
+    margin-top: 63px;
+    border-left: 4px solid #7ad03a;
+    border-left-color: #cc99c2 !important;
+}
+
+.woocommerce-extra-fields-help h4 {
+    font-size: 1em;
+    margin: 1.33em 0;
+    border-bottom: 1px solid #e3e3e3;
+    padding-bottom: 12px;
+}
+
+.woocommerce-extra-fields-help ul li {
+    margin-bottom: 10px;
+    list-style-type: disc;
+    margin-left: 16px;
+}
+
+.woocommerce-extra-fields-container input, .woocommerce-extra-fields-container select {
+    height: 37px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.woocommerce-extra-fields-container h2 {
+    margin-bottom: 20px;
+    padding-left: 4px;
+}
+
+#add-more_fields {
+    float: left;
+    margin-bottom: 20px;
+}
+
+.wooextra-section-container {
+    clear: both;
+    background: #fff;
+    padding: 0 28px;
+    margin-bottom: 30px;
+    border-left: 4px solid #7ad03a;
+    border-left-color: #cc99c2 !important;
+}
+
+.wooextra-section-container table.form-table {
+    margin-top: 0;
+}
+
+.wooextra-section-container select, .wooextra-section-container input.adding-name-field{
+    width: 100%;
+}
+
+.wooextra-section-container .extra-dropdown-fields-label, .wooextra-section-container .extra-dropdown-fields-value {
+    width: 45%;
+    margin: 0;
+}
+
+.wooextra-section-container .extra-dropdown-fields-label {
+    float: left;
+}
+
+a.boxclose, a.boxadd {
+    margin-top: -30px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    display: inline-block;
+    line-height: 7px;
+    padding: 11px 6px;
+    text-decoration: none;
+
+}
+
+a.boxclose {
+    color: #D00000;
+    margin-right: -5px;
+}
+
+a.boxadd {
+    color: #1fa900;
+    margin-right: -25px;
+}
+
+p.submit {
+    clear:both;
+}
+
+.container-close-button .containerclose {
+    position: relative;
+    left: 720px;
+    top: 9px;
+    color: #D00000;
+}
+
+.container-close-button .containerclose i {
+    font-size: 20px;
+}
