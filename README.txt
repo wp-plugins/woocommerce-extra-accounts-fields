@@ -6,7 +6,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Allow the user to add extra fields in registeration area ( My Account ) page, so you can more fields than firstname and lastname fields ..
+Allow the users to add extra fields in registration ( My Account ) page, so you can now add more fields than firstname and lastname fields ..
 
 == Description ==
 
