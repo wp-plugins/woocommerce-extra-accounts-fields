@@ -44,6 +44,7 @@ No answer.
 2. Woocommerce extra plugin from front end
 3. Another view for the admin fields 
 4. Showing the available types 
+5. Showing the plugin from the front-end after adding the extra fields  
 
 == Changelog ==
 
